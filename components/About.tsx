@@ -36,7 +36,7 @@ function About({}: Props) {
                 background
             </h4>
             <p className='text-base '>
-                I'm sam, a software engineer.I build interactive and optimised websites that are responsive on all platforms.
+                I&#39m sam, a software engineer.I build interactive and optimised websites that are responsive on all platforms.
                 I try to leave every piece of code I touch better than I met it.
             </p>
         </div>
