@@ -24,7 +24,7 @@ function Skills({}: Props) {
         <div className='grid grid-cols-3 gap-5'>
            {
             skills.map(({src, alt}, index) =>(
-             <Skill src={src} alt={alt}/>
+             <Skill key={index} src={src} alt={alt}/>
             
             ))
             }
